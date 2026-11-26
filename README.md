@@ -59,3 +59,4 @@ Entrégame un LINK PÚBLICO DIRECTO a “¿Qué veo hoy?” que yo pueda:
 Antes de entregarme el link, ábrelo y comprueba que realmente funciona.
 No considero terminado el trabajo hasta tener la página publicada y un enlace directo funcional.
 Continúa ahora con el proyecto que ya creaste y llévalo hasta ese punto.
+https://que-veo-hoy-cine.jpprietocorona.chatgpt.site/
